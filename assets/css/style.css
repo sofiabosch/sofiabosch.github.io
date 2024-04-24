@@ -89,6 +89,11 @@ nav{
     font-weight: 600;
     color: var(--text-color-third);
 }
+.nav-name2{
+    font-size: 30px;
+    font-weight: 600;
+    color: var(--first-shadow-color);
+}
 .nav-logo span{
     position: absolute;
     top: -15px;
